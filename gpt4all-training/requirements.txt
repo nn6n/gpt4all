@@ -3,7 +3,7 @@ datasets
 einops
 torchmetrics
 evaluate
-transformers>=4.28.0
+transformers>=4.53.0
 wandb
 peft
 nodelist-inflator
