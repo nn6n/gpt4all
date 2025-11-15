@@ -13,3 +13,4 @@ jsonlines
 nomic
 scikit-learn
 matplotlib
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
